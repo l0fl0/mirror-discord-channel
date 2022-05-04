@@ -1,3 +1,4 @@
 node_moodules
 .vscode
 .DS_store
+.env
